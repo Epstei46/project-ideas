@@ -7,11 +7,12 @@ Tips: Make a list of hobbies and interests, and then use that to structure your 
 
 (1)  Does Covid vaccination make a reasonable difference in regards to death/hospitality rate? Across different countries? Can we look at vaccination rate vs daily/weekly frequency of new cases? <https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a> Also cases/deaths/hospitalizations by vaccination status, 2 data sets <https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status>
 
-(2) Can pull data from <https://population.un.org/wpp/> & in Interactive Data, look at population, fertility, mortality, migration, dependency rations. Can only select one specific one at a time, & can compare groups or specific countries (through SDG Regions). Or I can also go Data => Data Sources => Data Download: Metadata. Can look at rate change over the years or compare places. 
+(2) Can look at correlations and comparisons for migration, mortality, dependency ratios. Can pull data from <https://population.un.org/wpp/Download/SpecialAggregates/EconomicTrading/> & in Interactive Data, look at population, fertility, mortality, migration, dependency rations. Can only select one specific one at a time, & can compare groups or specific countries (through SDG Regions). Can download .xlsx files (Microsoft Excel). For more info, can look at Data => Data Sources => Data Download: Metadata. Can also access this info through the API <https://population.un.org/dataportal/about/dataapi>.                  <https://rapidapi.com/aldair.sr99/api/world-population/> sources a website which sources un.org but more accurate population numbers?
+    Thinking about focusing on migration rate in relation to mortality/dependency/populationCan look at rate change over the years or compare places.
 
 (3) <https://data.world/health/chsi-to-combat-obesity> Has those fips_code that were used in a previous exercise. Includes these tables: healthypeople2010 & demographics & leadingcausesofdeath & summarymeasuresofhealth & measuresofbirthanddeath & relativehealthimportance & vunerablepopsandenvhealth & preventiveservicesuse & riskfactorsandaccesstocare
 
-(4) 
+(4) All APIs -- <https://rapidapi.com/accujazz/api/rawg-video-games-database/> has data on genre/platform/publisher/developrs/tags. <https://rapidapi.com/SapphireWare/api/video-game-price/details> OR <https://rapidapi.com/wim.onderbeke/api/game-prices/> Gets the current game prices from a variety of stores and tells you which store has the cheapest price. <https://rapidapi.com/contextualwebsearch/api/web-search/> for images/news.
 
 (5) 
 
@@ -19,4 +20,4 @@ Tips: Make a list of hobbies and interests, and then use that to structure your 
 
 (7) 
 
-(8) Spent some time looking around on <https://catalog.data.gov/>. Need to check out <https://rapidapi.com/collection/list-of-free-apis> still.
+(8) Spent some time looking around on <https://catalog.data.gov/>. Also glanced at <https://rapidapi.com/collection/list-of-free-apis>.

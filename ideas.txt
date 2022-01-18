@@ -1,23 +1,37 @@
 -- Working on exercise at https://ed.devmountain.com/materials/data-bp-1/exercises/capstone-ideas-data/
 
--- Generate at least 5 compelling project ideas for data analysis projects you would like to create. The project should have a research question (or set of questions), multiple datasets, statistical analysis, and visualizations.
--- During this stage, your “idea” can be fairly general and informal. You don’t need to provide a lot of detail for each idea– a single bullet point for each idea should be sufficient.
+-- Generate at least 5 compelling project ideas for data analysis projects you would like to create. The project
+should have a research question (or set of questions), multiple datasets, statistical analysis, and visualizations.
+-- During this stage, your “idea” can be fairly general and informal. You don’t need to provide a lot of detail for
+each idea– a single bullet point for each idea should be sufficient.
 
-Tips: Make a list of hobbies and interests, and then use that to structure your brainstorming OR Make a list of daily activities, and then use that to structure your brainstorming OR Make a list of problems you would like to solve OR Ask a friend or family member for major questions they have that could be answered with data OR Go search on the internet for data projects and get inspiration from others’ work
+Tips: Make a list of hobbies and interests, and then use that to structure your brainstorming OR Make a list of daily
+activities, and then use that to structure your brainstorming OR Make a list of problems you would like to solve OR Ask a friend or family member for major questions they have that could be answered with data OR Go search on the
+internet for data projects and get inspiration from others’ work
 
-(1)  Does Covid vaccination make a reasonable difference in regards to death/hospitality rate? Across different countries? Can we look at vaccination rate vs daily/weekly frequency of new cases? <https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a> Also cases/deaths/hospitalizations by vaccination status, 2 data sets <https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status>
+(1)  Does Covid vaccination make a reasonable difference in regards to death/hospitality rate? Across different
+countries? Can we look at vaccination rate vs daily/weekly frequency of new cases?
+<https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a>
+Also cases/deaths/hospitalizations by vaccination status, 2 data sets
+<https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status>
 
-(2) Can look at correlations and comparisons for migration, mortality, dependency ratios. Can pull data from <https://population.un.org/wpp/Download/SpecialAggregates/EconomicTrading/> & in Interactive Data, look at population, fertility, mortality, migration, dependency rations. Can only select one specific one at a time, & can compare groups or specific countries (through SDG Regions). Can download .xlsx files (Microsoft Excel). For more info, can look at Data => Data Sources => Data Download: Metadata. Can also access this info through the API <https://population.un.org/dataportal/about/dataapi>.                  <https://rapidapi.com/aldair.sr99/api/world-population/> sources a website which sources un.org but more accurate population numbers?
-    Thinking about focusing on migration rate in relation to mortality/dependency/populationCan look at rate change over the years or compare places.
+(2) Can look at correlations and comparisons for migration, mortality, dependency ratios. Can pull data from
+<https://population.un.org/wpp/Download/SpecialAggregates/EconomicTrading/> & in Interactive Data,
+look at population, fertility, mortality, migration, dependency rations. Can only select one specific one at a time,
+and can compare groups or specific countries (through SDG Regions). Can download .xlsx files (Microsoft Excel).
+For more info, can look at Data => Data Sources => Data Download: Metadata. Can also access this info through the API <https://population.un.org/dataportal/about/dataapi>.
+<https://rapidapi.com/aldair.sr99/api/world-population/> sources a website which sources un.org but more accurate population numbers?
+    Thinking about focusing on migration rate in relation to mortality/dependency/populationCan,
+    look at rate change over the years or compare places.
 
-(3) <https://data.world/health/chsi-to-combat-obesity> Has those fips_code that were used in a previous exercise. Includes these tables: healthypeople2010 & demographics & leadingcausesofdeath & summarymeasuresofhealth & measuresofbirthanddeath & relativehealthimportance & vunerablepopsandenvhealth & preventiveservicesuse & riskfactorsandaccesstocare
+(3) <https://data.world/health/chsi-to-combat-obesity> Has those fips_code that were used in a previous exercise.
+Includes these tables: healthypeople2010 & demographics & leadingcausesofdeath & summarymeasuresofhealth &
+measuresofbirthanddeath & relativehealthimportance & vunerablepopsandenvhealth & preventiveservicesuse & riskfactorsandaccesstocare
 
-(4) All APIs -- <https://rapidapi.com/accujazz/api/rawg-video-games-database/> has data on genre/platform/publisher/developrs/tags. <https://rapidapi.com/SapphireWare/api/video-game-price/details> OR <https://rapidapi.com/wim.onderbeke/api/game-prices/> Gets the current game prices from a variety of stores and tells you which store has the cheapest price. <https://rapidapi.com/contextualwebsearch/api/web-search/> for images/news.
+(4) All APIs -- <https://rapidapi.com/accujazz/api/rawg-video-games-database/> has data on
+genre/platform/publisher/developrs/tags. <https://rapidapi.com/SapphireWare/api/video-game-price/details> OR
+<https://rapidapi.com/wim.onderbeke/api/game-prices/> Gets the current game prices from a variety of stores and tells
+you which store has the cheapest price. <https://rapidapi.com/contextualwebsearch/api/web-search/> for images/news.
 
-(5) 
-
-(6) 
-
-(7) 
-
-(8) Spent some time looking around on <https://catalog.data.gov/>. Also glanced at <https://rapidapi.com/collection/list-of-free-apis>.
+Spent most of the time looking around on <https://data.world> and <https://catalog.data.gov/>.
+Also glanced at <https://rapidapi.com/collection/list-of-free-apis>.

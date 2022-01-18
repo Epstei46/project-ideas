@@ -6,7 +6,8 @@ should have a research question (or set of questions), multiple datasets, statis
 each idea– a single bullet point for each idea should be sufficient.
 
 Tips: Make a list of hobbies and interests, and then use that to structure your brainstorming OR Make a list of daily
-activities, and then use that to structure your brainstorming OR Make a list of problems you would like to solve OR Ask a friend or family member for major questions they have that could be answered with data OR Go search on the
+activities, and then use that to structure your brainstorming OR Make a list of problems you would like to solve OR Ask a friend or family member for major questions they have that could be answered with data OR
+Go search on the
 internet for data projects and get inspiration from others’ work
 
 (1)  Does Covid vaccination make a reasonable difference in regards to death/hospitality rate? Across different
@@ -19,7 +20,8 @@ Also cases/deaths/hospitalizations by vaccination status, 2 data sets
 <https://population.un.org/wpp/Download/SpecialAggregates/EconomicTrading/> & in Interactive Data,
 look at population, fertility, mortality, migration, dependency rations. Can only select one specific one at a time,
 and can compare groups or specific countries (through SDG Regions). Can download .xlsx files (Microsoft Excel).
-For more info, can look at Data => Data Sources => Data Download: Metadata. Can also access this info through the API <https://population.un.org/dataportal/about/dataapi>.
+For more info, can look at Data => Data Sources => Data Download: Metadata. Can also access this info through the API
+<https://population.un.org/dataportal/about/dataapi>.
 <https://rapidapi.com/aldair.sr99/api/world-population/> sources a website which sources un.org but more accurate population numbers?
     Thinking about focusing on migration rate in relation to mortality/dependency/populationCan,
     look at rate change over the years or compare places.

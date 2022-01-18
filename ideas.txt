@@ -26,11 +26,13 @@ For more info, can look at Data => Data Sources => Data Download: Metadata. Can 
     Thinking about focusing on migration rate in relation to mortality/dependency/populationCan,
     look at rate change over the years or compare places.
 
-(3) <https://data.world/health/chsi-to-combat-obesity> Has those fips_code that were used in a previous exercise.
+(3) <https://rapidapi.com/BraveNewCoin/api/bravenewcoin/> They have a website and documentation, provide Latest and historic cryptocurrency market data. Could compare with stocks or gold exchange rate?
+
+(4) <https://data.world/health/chsi-to-combat-obesity> Has those fips_code that were used in a previous exercise.
 Includes these tables: healthypeople2010 & demographics & leadingcausesofdeath & summarymeasuresofhealth &
 measuresofbirthanddeath & relativehealthimportance & vunerablepopsandenvhealth & preventiveservicesuse & riskfactorsandaccesstocare
 
-(4) All APIs -- <https://rapidapi.com/accujazz/api/rawg-video-games-database/> has data on
+(5) All APIs -- <https://rapidapi.com/accujazz/api/rawg-video-games-database/> has data on
 genre/platform/publisher/developrs/tags. <https://rapidapi.com/SapphireWare/api/video-game-price/details> OR
 <https://rapidapi.com/wim.onderbeke/api/game-prices/> Gets the current game prices from a variety of stores and tells
 you which store has the cheapest price. <https://rapidapi.com/contextualwebsearch/api/web-search/> for images/news.

@@ -16,7 +16,8 @@ countries? Can we look at vaccination rate vs daily/weekly frequency of new case
 Also cases/deaths/hospitalizations by vaccination status, 2 data sets
 <https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status>
 
-(2) Can look at correlations and comparisons for migration, mortality, dependency ratios. Can pull data from
+(2) Can look at correlations and comparisons for migration, mortality, dependency ratios;
+population may be good to include for reference as well. Can pull data from
 <https://population.un.org/wpp/Download/SpecialAggregates/EconomicTrading/> & in Interactive Data,
 look at population, fertility, mortality, migration, dependency rations. Can only select one specific one at a time,
 and can compare groups or specific countries (through SDG Regions). Can download .xlsx files (Microsoft Excel).

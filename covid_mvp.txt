@@ -2,7 +2,10 @@
     Checking to see if there was a variation in the incidence of Covid cases/deaths by state.
 
 A purpose behind the question - why does this matter:
-    If there is a significant different between states, then it is important to look further into the states with the lowest incidence vs highest incidence to get a better understanding of why. Could look at vaccination rates, urban vs rural, specific policy, survey samples of the population about wearing masks, etc. This could be useful for current policy and future policy if another pandemic occurs.
+    If there is a significant different between states, then it is important to look further into the states with the
+    lowest incidence vs highest incidence to get a better understanding of why. Could look at vaccination rates,
+    urban vs rural, specific policy, survey samples of the population about wearing masks, etc.
+    This could be useful for current policy, and future policy if another pandemic occurs.
 
 Choose at least 2 data sources - can be static datasets, live data, APIs, or other:
     Can download 3 datasets by county and date: cases, deaths, population. But no vaccination data.

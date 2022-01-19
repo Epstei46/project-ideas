@@ -1,0 +1,10 @@
+A specific question or set of questions to answer or a theory to test using data analysis:
+
+
+A purpose behind the question - why does this matter:
+
+
+Choose at least 2 data sources - can be static datasets, live data, APIs, or other:
+
+
+Propose 2-3 visual elements you will include in your analysis (charts, visualizations, etc.):

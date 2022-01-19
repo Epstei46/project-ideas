@@ -1,0 +1,20 @@
+A specific question or set of questions to answer or a theory to test using data analysis:
+    How much of a difference does Covid vaccination make in regards to case/hospitalization/death rates?
+
+A purpose behind the question - why does this matter:
+    The pharmaceutical companies have already published studies on the efficacy of their vaccines.
+    However, the state of California has a much larger data set and less/no conflicts of interest,
+    so the data coming from there is more reputable. Anyone who has not yet been vaccinated due to a distrust
+    in Big Pharma may be more willing to consider the vaccine after seeing this more reputable data.
+
+Choose at least 2 data sources - can be static datasets, live data, APIs, or other:
+    For California, daily cases/deaths/hospitalization by vaccination status
+    <https://data.chhs.ca.gov/dataset/covid-19-post-vaccination-infection-data>
+    Outdated <https://data.world/chhs/e39edc8e-9db1-40a7-9e87-89169401c3f5>
+
+Propose 2-3 visual elements you will include in your analysis (charts, visualizations, etc.):
+    --  3 Charts. 1 for Cases, 1 for Hospitilizations, 1 for Deaths.
+        2 different lines. 1 for vaccinated, 1 for unvaccinated.
+        y-axis as numeric count, x-axis as time (days/weeks/months)
+    --  May consider similar tables but with y-axis converted to rates (per 100,000?).
+        Rates actually makes more sense, so would be good to calculate that.
